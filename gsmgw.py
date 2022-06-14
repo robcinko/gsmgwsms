@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Python SMS sender and recivier for Yeastar GSM GW model TG400 - made by RK.
+#Python SMS sender and recivier for Yeastar GSM GW model TG400 - made by RK--
 
 import socket
 from urllib.parse import unquote
